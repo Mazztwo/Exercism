@@ -19,4 +19,4 @@ export const rows = (r) => {
   }
 
   return result;
-}
+};
